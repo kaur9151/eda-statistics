@@ -1,5 +1,5 @@
 # eda-statistics
-In this repository I am getting raw data from https://archive.ics.uci.edu/ml/machine-learning-databases/adult/ .
+#In this repository I am getting raw data from https://archive.ics.uci.edu/ml/machine-learning-databases/adult/ .
 I cleaned this data using the pandas library in python. You can also see the attached eda2.ipynb file in the repository for step by step approach.
 First thing I noticed was the raw data was missing its header, therefore, to understand the data more clearly I searched the above mentioned website. From description of the dataset I was able to find appropriate column headings.
 After that I tried to find duplicates in the dataset but because of no unique identification of the rows deleting any data was not a good approach.
